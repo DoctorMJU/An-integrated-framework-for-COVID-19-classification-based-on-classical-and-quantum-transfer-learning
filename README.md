@@ -31,3 +31,7 @@ Run the file concurrency_and_computation_practice.ipynb file and use the pre-tra
 https://www.kaggle.com/datasets/javeria/an-integrated-framework
 
 All the experiment were performed on the above dataset for vedio tutorial please click Vidio_article.MP4 file.
+
+Article link
+
+https://onlinelibrary.wiley.com/doi/10.1002/cpe.6434
